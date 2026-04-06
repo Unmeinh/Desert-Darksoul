@@ -1,6 +1,6 @@
 - What is this?
 - This is a project game I made, names DesertDarksoul. The game's type is platformer. This is my assignment project. You'll play as a mage overcoming obstacles to reach the finish line.
->**Note**: The game I made many years ago, the Unity editor version was outdated so when the UI was crash a bit. I've had a quick fix but it looks isn't good so.... Please forgive me.
+>**Note**: I made this game years ago, and the version of the Unity editor I used back then is so outdated now that some of the UI are a bit glitchy. I did a quick fix, but it still doesn't look quite right... so I hope you guys can bear with me.
 
 # How to play
  
