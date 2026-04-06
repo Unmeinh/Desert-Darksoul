@@ -18,3 +18,4 @@ Go to this page [pre-release](https://github.com/Unmeinh/Desert-Darksoul/release
 >**Note**: Thank you very much for playing.
 
 # Preview
+![Preview](preview/Desert_Darksoul.gif)
