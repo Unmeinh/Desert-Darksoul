@@ -19,4 +19,5 @@ Go to this page [pre-release](https://github.com/Unmeinh/Desert-Darksoul/release
 
 # Gameplay Preview
 >**Note**: Don't mind the water mark please... If you want see the video then, [here](https://drive.google.com/file/d/1SnzunfV3fynUiDqHEWImEo021LVJNCC2/view?usp=sharing).
+
 ![Preview](preview/Desert_Darksoul.gif)
