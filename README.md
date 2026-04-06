@@ -23,4 +23,4 @@ Go to this page [pre-release](https://github.com/Unmeinh/Desert-Darksoul/release
 
 # Video Preview 
 ▶️ Watch video:  
-[https://drive.google.com/your-link](https://drive.google.com/file/d/1SnzunfV3fynUiDqHEWImEo021LVJNCC2/view?usp=sharing)
+[![Watch Video](https://drive.google.com/file/d/1RGjJ_vpNY9OdjoOtwf_1uSaL6Hddhl-x/view?usp=sharing)](https://drive.google.com/file/d/1SnzunfV3fynUiDqHEWImEo021LVJNCC2/view?usp=sharing)
