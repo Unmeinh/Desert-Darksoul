@@ -60,6 +60,13 @@ public class Menu_Setting : MonoBehaviour
         }
     }
 
+    public void MoveToScene2()
+    {
+        SceneManager.LoadScene("Level2Scene");
+        PlayerPrefs.SetFloat("SrcVol", auSrc.volume);
+        Time.timeScale = 1;
+    }
+
     public void ReplayLevel()
     {
         SceneManager.LoadScene("Level1Scene");

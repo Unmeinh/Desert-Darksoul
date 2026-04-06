@@ -4422,8 +4422,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53abbe9980bb5a24ca19bc9c6ec66d31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mageScripts: {fileID: 0}
-  camera: {fileID: 0}
+  mageScripts: {fileID: 1495576991}
+  camera: {fileID: 582292766}
 --- !u!4 &282985537
 Transform:
   m_ObjectHideFlags: 0
