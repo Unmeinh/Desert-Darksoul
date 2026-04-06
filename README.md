@@ -17,5 +17,10 @@ Go to this page [pre-release](https://github.com/Unmeinh/Desert-Darksoul/release
 ## Step 4: Run the Desert Darksoul.exe to start playing.
 >**Note**: Thank you very much for playing.
 
-# Preview
+# Gif Preview
+>**Note**: Don't mind the water mark please... If you want see the video then, scroll down please.
 ![Preview](preview/Desert_Darksoul.gif)
+
+# Video Preview 
+▶️ Watch video:  
+[https://drive.google.com/your-link](https://drive.google.com/file/d/1SnzunfV3fynUiDqHEWImEo021LVJNCC2/view?usp=sharing)
